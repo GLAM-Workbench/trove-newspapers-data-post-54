@@ -1,6 +1,6 @@
 # Trove newspapers with articles published after 1954
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6812811.svg)](https://doi.org/10.5281/zenodo.6812811)
+[![Frictionless](https://github.com/GLAM-Workbench/trove-newspapers-data-post-54/actions/workflows/frictionless.yaml/badge.svg)](https://repository.frictionlessdata.io/report?user=GLAM-Workbench&repo=trove-newspapers-data-post-54&flow=frictionless) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6812811.svg)](https://doi.org/10.5281/zenodo.6812811)
 
 Current version: [v1.0](https://github.com/GLAM-Workbench/trove-newspapers-data-post-54/releases/tag/v1.0)
 
