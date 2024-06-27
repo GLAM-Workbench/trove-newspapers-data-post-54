@@ -2,11 +2,11 @@
 
 [![Frictionless](https://github.com/GLAM-Workbench/trove-newspapers-data-post-54/actions/workflows/frictionless.yaml/badge.svg)](https://repository.frictionlessdata.io/report?user=GLAM-Workbench&repo=trove-newspapers-data-post-54&flow=frictionless) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6812811.svg)](https://doi.org/10.5281/zenodo.6812811)
 
-Current version: [v1.5](https://github.com/GLAM-Workbench/trove-newspapers-data-post-54/releases/tag/v1.5)
+Current version: [v1.6](https://github.com/GLAM-Workbench/trove-newspapers-data-post-54/releases/tag/v1.6)
 
 Due to copyright restrictions, most of the digitised newspaper articles on Trove were published before 1955. However, some articles published after 1954 have been made available. This repository provides data about digitised newspapers in Trove that have articles available from after 1954 (the 'copyright cliff of death'). 
 
-The data was extracted from the Trove API using [this notebook](https://glam-workbench.net/trove-newspapers/#beyond-the-copyright-cliff-of-death) from the [Trove newspapers](https://glam-workbench.net/trove-newspapers/) section of the GLAM Workbench.
+The data was extracted from the Trove API using [this notebook](https://glam-workbench.net/trove-newspapers/Beyond_the_copyright_cliff_of_death/) from the [Trove newspapers](https://glam-workbench.net/trove-newspapers/) section of the GLAM Workbench.
 
 The data is available as a CSV file entitled `newspapers_post_54.csv` and contains the following fields:
 
