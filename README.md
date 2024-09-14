@@ -1,8 +1,8 @@
 # Trove newspapers with articles published after 1954
 
-[![Frictionless](https://github.com/GLAM-Workbench/trove-newspapers-data-post-54/actions/workflows/frictionless.yaml/badge.svg)](https://repository.frictionlessdata.io/report?user=GLAM-Workbench&repo=trove-newspapers-data-post-54&flow=frictionless) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6812811.svg)](https://doi.org/10.5281/zenodo.6812811)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6812811.svg)](https://doi.org/10.5281/zenodo.6812811)
 
-Current version: [v1.6](https://github.com/GLAM-Workbench/trove-newspapers-data-post-54/releases/tag/v1.6)
+Current version: [v1.7](https://github.com/GLAM-Workbench/trove-newspapers-data-post-54/releases/tag/v1.7)
 
 Due to copyright restrictions, most of the digitised newspaper articles on Trove were published before 1955. However, some articles published after 1954 have been made available. This repository provides data about digitised newspapers in Trove that have articles available from after 1954 (the 'copyright cliff of death'). 
 

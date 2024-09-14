@@ -1,7 +1,7 @@
 title,state,id,startDate,endDate,issn,number_of_articles,troveUrl
 The Canberra Times (ACT : 1926 - 1995),ACT,11,1926-09-03,1995-12-31,01576925,2567488,https://nla.gov.au/nla.news-title11
 "The Australian Jewish News (Melbourne, Vic. : 1935 - 1999)",Victoria,1685,1935-05-24,1999-12-24,NDP00187,573658,https://nla.gov.au/nla.news-title1685
-Port Lincoln Times (SA : 1927 - 1986; 1992 - 2002),South Australia,370,1927-08-05,2002-12-31,13215272,494266,https://nla.gov.au/nla.news-title370
+Port Lincoln Times (SA : 1927 - 1988; 1992 - 2002),South Australia,370,1927-08-05,2002-12-31,13215272,489896,https://nla.gov.au/nla.news-title370
 Papua New Guinea Post-Courier (Port Moresby : 1969 - 1981),International,1376,1969-06-30,1981-06-30,22087427,417472,https://nla.gov.au/nla.news-title1376
 "The Australian Jewish Times (Sydney, NSW : 1953 - 1990)",New South Wales,1694,1953-10-16,1990-04-06,NDP00196,263618,https://nla.gov.au/nla.news-title1694
 The Australian Women's Weekly (1933 - 1982),National,112,1933-06-10,1982-12-15,00050458,225466,https://nla.gov.au/nla.news-title112
@@ -12,35 +12,35 @@ Queanbeyan Age (NSW : 1927 - 1971),New South Wales,88,1927-07-26,1971-12-23,1320
 "Times (Victor Harbor, SA : 1987 - 1999)",South Australia,856,1987-01-07,1999-12-31,22040722,143726,https://nla.gov.au/nla.news-title856
 "The Argus (Melbourne, Vic. : 1848 - 1957)",Victoria,13,1848-09-15,1957-01-19,18339719,140299,https://nla.gov.au/nla.news-title13
 Victor Harbour Times (SA : 1932 - 1986),South Australia,832,1932-04-15,1986-12-31,22038213,126881,https://nla.gov.au/nla.news-title832
-"Hills and Valley Messenger (Port Adelaide, SA : 1984 - 2011)",South Australia,1891,1984-06-06,2011-12-21,NDP00390,123264,https://nla.gov.au/nla.news-title1891
+"Hills Messenger (Port Adelaide, SA : 1984 - 2011)",South Australia,1891,1984-06-06,2011-12-21,NDP00390,123264,https://nla.gov.au/nla.news-title1891
 "Tribune (Sydney, NSW : 1939 - 1991)",New South Wales,1002,1939-09-01,1991-04-03,22048790,103006,https://nla.gov.au/nla.news-title1002
 "King Island News (Currie, King Island : 1912 - 1986",Tasmania,1078,1912-08-09,1986-08-13,22052569,98639,https://nla.gov.au/nla.news-title1078
-Royal Australian Navy News (National : 1958 - 2021),National,1804,1958-07-18,2021-12-09,NDP00303,95727,https://nla.gov.au/nla.news-title1804
+Royal Australian Navy News (National : 1958 - 2023),National,1804,1958-07-18,2021-12-09,NDP00303,95727,https://nla.gov.au/nla.news-title1804
 "Le Courrier Australien (Sydney, NSW : 1892 - 2011)",New South Wales,829,1892-04-30,2011-04-01,22038264,94500,https://nla.gov.au/nla.news-title829
 "The Australian Jewish Herald (Melbourne, Vic. : 1935 - 1968)",Victoria,1696,1935-05-23,1968-08-02,NDP00198,92553,https://nla.gov.au/nla.news-title1696
 "The Biz (Fairfield, NSW : 1928 - 1972)",New South Wales,256,1928-11-03,1972-06-15,18397352,90068,https://nla.gov.au/nla.news-title256
 "Western Herald (Bourke, NSW : 1887 - 1970)",New South Wales,426,1887-10-26,1970-12-11,22013504,88437,https://nla.gov.au/nla.news-title426
 "The Riverine Herald (Echuca, Vic. : Moama, NSW : 1869 - 1954; 1998 - 2002)",Victoria,311,1869-01-09,2002-12-30,2200159X,79244,https://nla.gov.au/nla.news-title311
 The Beverley Times (WA : 1905 - 1977),Western Australia,973,1905-07-22,1977-08-11,22048537,77862,https://nla.gov.au/nla.news-title973
-Army (National : 1980 - 2021),National,1802,1980-10-09,2021-12-09,NDP00301,76489,https://nla.gov.au/nla.news-title1802
+Army (National : 1980 - 2023),National,1802,1980-10-09,2021-12-09,NDP00301,76489,https://nla.gov.au/nla.news-title1802
 "The Daily News (Perth, WA : 1882 - 1955)",Western Australia,275,1882-07-26,1955-12-31,18398138,59736,https://nla.gov.au/nla.news-title275
 "Tharunka (Kensington, NSW : 1953 - 2010)",New South Wales,1187,1953-03-02,2010-10-01,22061703,54719,https://nla.gov.au/nla.news-title1187
 Windsor and Richmond Gazette (NSW : 1888 - 1971),New South Wales,192,1888-07-21,1965-12-22,08121885,52653,https://nla.gov.au/nla.news-title192
 "Dutch Weekly (Sydney, NSW : 1993 - 2004)",New South Wales,1045,1993-08-02,2004-10-25,22051937,46560,https://nla.gov.au/nla.news-title1045
 "Nota (Hawks Nest and Tea Gardens, NSW : 1970 - 1999)",New South Wales,1501,1970-04-01,1999-08-19,26520311,41515,https://nla.gov.au/nla.news-title1501
 "Hills Gazette (Port Adelaide, SA: 1973 - 1984)",South Australia,1851,1973-03-21,1984-05-30,NDP00351,39420,https://nla.gov.au/nla.news-title1851
-The South-East Kingston Leader (SA : 1962 - 1976),South Australia,1879,1962-09-19,1976-12-21,NDP00378,37668,https://nla.gov.au/nla.news-title1879
+The South-East Kingston Leader (SA : 1962 - 1987),South Australia,1879,1962-09-19,1976-12-21,NDP00378,37668,https://nla.gov.au/nla.news-title1879
 "The Broadcaster (Fairfield, NSW : 1935 - 1978)",New South Wales,722,1935-01-31,1978-05-23,22030395,36980,https://nla.gov.au/nla.news-title722
 "The Coromandel (Blackwood, SA : 1945 - 1970)",South Australia,1680,1945-08-04,1970-08-13,NDP00180,36264,https://nla.gov.au/nla.news-title1680
 "Nepean Times (Penrith, NSW : 1882 - 1962)",New South Wales,350,1882-03-03,1962-11-29,22004416,36149,https://nla.gov.au/nla.news-title350
 "The Jewish Post (Melbourne, Vic. : 1949 - 1966)",Victoria,1776,1949-01-27,1966-05-06,NDP00276,36072,https://nla.gov.au/nla.news-title1776
 Australian Army (National : 1959 -1980),National,1801,1959-09-10,1980-09-25,NDP00300,34847,https://nla.gov.au/nla.news-title1801
-Air Force News (National : 1997 - 2020),National,1672,1997-10-01,2021-12-09,NDP00173,34531,https://nla.gov.au/nla.news-title1672
+Air Force News (National : 1997 - 2023),National,1672,1997-10-01,2021-12-09,NDP00173,34531,https://nla.gov.au/nla.news-title1672
 "The Berrigan Advocate (Cobram, NSW. : 1891 - 1970)",New South Wales,1775,1891-10-23,1970-02-24,NDP00232,33796,https://nla.gov.au/nla.news-title1775
 "The Bananacoast Opinion (Coffs Harbour, NSW : 1973 - 1978)",New South Wales,1500,1973-06-19,1978-10-25,26520370,29322,https://nla.gov.au/nla.news-title1500
 "The Cumberland Argus (Parramatta, NSW : 1950 - 1962)",New South Wales,442,1950-03-22,1962-10-24,22008985,28946,https://nla.gov.au/nla.news-title442
 Noosa News (Qld. : 1968 - 1974),Queensland,1675,1968-12-05,1974-12-26,NDP00176,28941,https://nla.gov.au/nla.news-title1675
-"The Standard (Port Adelaide, SA : 1959 - 1965)",South Australia,1873,1959-08-06,1965-12-22,NDP00365,27970,https://nla.gov.au/nla.news-title1873
+"The Standard (Port Adelaide, SA : 1959 - 1967)",South Australia,1873,1959-08-06,1965-12-22,NDP00365,27970,https://nla.gov.au/nla.news-title1873
 "The Central Queensland Herald (Rockhampton, Qld. : 1930 - 1956)",Queensland,187,1930-01-02,1956-11-29,18389783,27205,https://nla.gov.au/nla.news-title187
 Western Tiers (Tas. : 1980 - 2004),Tasmania,1132,1980-04-01,2004-01-20,22054316,26178,https://nla.gov.au/nla.news-title1132
 RAAF News (National : 1960 - 1997),National,1671,1941-03-22,1997-09-01,NDP00172,22327,https://nla.gov.au/nla.news-title1671
@@ -53,6 +53,7 @@ Rutherglen Sun and Chiltern Valley Advertiser (Vic. : 1886 - 1957),Victoria,604,
 "The Coromandel Times (Blackwood, SA : 1970 - 1976)",South Australia,1681,1970-08-20,1976-03-18,NDP00181,9900,https://nla.gov.au/nla.news-title1681
 Sawtell Guardian (NSW : 1970 - 1976),New South Wales,1346,1970-05-14,1976-03-26,22087508,9452,https://nla.gov.au/nla.news-title1346
 "Mirror (Perth, WA : 1921 - 1956)",Western Australia,253,1921-04-17,1956-08-11,18396305,9425,https://nla.gov.au/nla.news-title253
+Maitland Mercury (NSW : 1939 - 1955),New South Wales,629,1939-12-26,1955-05-05,22023410,9017,https://nla.gov.au/nla.news-title629
 Kojonup Courier (WA : 1951 - 1958),Western Australia,1631,1951-04-19,1958-05-15,NDP00132,8466,https://nla.gov.au/nla.news-title1631
 "Filmnews (Sydney, NSW : 1975 - 1995)",New South Wales,1104,1975-02-01,1995-07-01,22054294,7737,https://nla.gov.au/nla.news-title1104
 Yass Tribune-Courier (NSW : 1929 - 1954),New South Wales,1366,1929-04-04,1955-12-29,22087273,7539,https://nla.gov.au/nla.news-title1366
